@@ -12,7 +12,7 @@
 <p > 
       <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" width="80" height="auto"></img>
       <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="80" height="auto"></img>
-      <<img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg?color=%232298BD" width="80" height="auto"></img>
+      <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg?color=%232298BD" width="80" height="auto"></img>
       <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="80" height="auto"></img>
       <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="80" height="auto"></img>
       <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" width="80" height="auto"></img>
